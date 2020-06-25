@@ -1,0 +1,28 @@
+body{
+    background:#808080;
+}
+#h1{
+    text-align: center;
+    background-color: rgb(145, 223, 30);
+}
+.dropdown,select{
+    text-align: center;
+    border-color: red;
+    border-radius: 20px;
+    display: inline;
+    font-size: 20px;
+}
+.dropdown,p{
+    font-size: 25px;
+}
+.form,input{
+    text-align: center;
+    border-color: red;
+    border-radius: 20px;
+    padding:1%;
+    margin-top:20px;
+    font-size: 15px;
+}
+#choice{
+    font-size: 20px;
+}
